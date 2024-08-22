@@ -1,6 +1,0 @@
-<doctype HTML>
-<HTML>
-	<head> Graded Exercise 
-		<title> Badminton </title>
-	</head>
-</HTML>

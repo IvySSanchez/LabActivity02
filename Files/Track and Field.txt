@@ -1,6 +1,0 @@
-<doctype HTML>
-<HTML>
-	<head> Graded Exercise 
-		<title> Track and Field </title>
-	</head>
-</HTML>
